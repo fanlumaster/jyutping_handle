@@ -1,6 +1,10 @@
+'''
+将粤语的歌词加上粤拼(jp)之后输出到 res_lyric.txt 文件中
+'''
+
 import os.path
 
-file_path = os.path.join(os.path.dirname(__file__), 'jp.txt')
+file_path = os.path.join(os.path.dirname(__file__), './res/jp.txt')
 
 my_dict = {}
 with open(file_path, 'rb+') as myfile:
@@ -25,6 +29,7 @@ def is_chinese(ch):
     return False
 
 
+# 从魔镜歌词网上复制下来的歌词有时候会有它这个广告插在其中，我们需要将其去掉
 my_lyrics = my_lyrics.replace('更多更详尽歌词 在 ※ Mojim.com　魔镜歌词网\n', '')
 
 for i in range(len(my_lyrics)):
@@ -38,4 +43,3 @@ for i in range(len(my_lyrics)):
 res_lyric_path = os.path.join(os.path.dirname(__file__), 'res_lyric.txt')
 with open(res_lyric_path, 'wb+') as f:
     f.write(res_lyrics.encode())
-
