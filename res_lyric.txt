@@ -1,86 +1,52 @@
-[ti:借(ze3)口(hau2)]
-[ar:王(wong4)菲(fei2)]
-[al:王(wong4)菲(fei2)的(dik1)故(gu3)事(si6)]
-[by:]
-[offset:0]
-[00:00.00]借(ze3)口(hau2) - 王(wong4)菲(fei2) (Faye Wong)
-[00:05.15]词(ci4)：林(lam4)振(zan3)强(koeng4)
-[00:10.31]曲(kuk1)：李(lei5)子(zi2)恒(hang4)
-[00:15.46]常(soeng4)请(cing2)晚(maan5)星(sing1)请(cing2)背(bui3)影(jing2)
-[00:19.20]不(bat1)用(jung6)替(tai3)我(ngo5)太(taai3)挂(gwaa3)心(sam1)
-[00:21.99]
-[00:23.39]常(soeng4)劝(hyun3)心(sam1)境(ging2)应(jing3)恬(tim4)静(zing6)
-[00:27.06]别(bit6)无(mou4)事(si6)也(jaa5)带(daai3)泪(leoi6)痕(han4)
-[00:29.91]
-[00:31.25]如(jyu4)近(gan6)来(loi4)共(gung6)你(nei5)相(soeng1)拥(jung2)之(zi1)时(si4)
-[00:34.82]常(soeng4)常(soeng4)略(loek6)察(caat3)觉(gok3)你(nei5)稍(saau2)带(daai3)冷(laang5)感(gam2)
-[00:38.12]
-[00:39.01]全(cyun4)因(jan1)你(nei5)身(san1)边(bin1)许(heoi2)多(do1)要(jiu3)事(si6)
-[00:42.16]
-[00:42.72]暂(zaam6)时(si4)没(mut6)法(faat3)兴(hing1)奋(fan5)
-[00:47.16]
-[00:48.74]常(soeng4)请(cing2)眼(ngaan5)睛(zing1)不(bat1)要(jiu3)醒(sing2)
-[00:52.38]不(bat1)用(jung6)太(taai3)过(gwo3)看(hon3)得(dak1)真(zan1)
-[00:55.26]
-[00:56.62]常(soeng4)劝(hyun3)哭(huk1)声(sing1)稍(saau2)冷(laang5)静(zing6)
-[00:59.72]
-[01:00.26]事(si6)情(cing4)未(mei6)算(syun3)有(jau5)裂(lit6)痕(han4)
-[01:02.97]
-[01:04.45]如(jyu4)日(jat6)前(cin4)为(wai4)我(ngo5)恭(gung1)祝(zuk1)生(sang1)辰(san4)
-[01:08.45]是(si6)我(ngo5)冷(laang5)的(dik1)背(bui3)影(jing2)
-[01:11.31]
-[01:12.14]全(cyun4)因(jan1)你(nei5)当(dong1)天(tin1)刚(gong1)巧(haau2)有(jau5)事(si6)
-[01:15.85]办(baan6)完(jyun4)便(bin6)送(sung3)我(ngo5)火(fo2)吻(man5)
-[01:20.25]
-[01:25.81]常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)
-[01:27.33]也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)借(ze3)口(hau2)
-[01:30.96]
-[01:33.38]如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)
-[01:35.07]却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)
-[01:39.65]
-[01:41.44]明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)
-[01:42.89]但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)
-[01:44.82]我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)
-[01:48.89]仍(jing4)然(jin4)诈(zaa3)不(bat1)知(zi1)
-[01:50.49]
-[01:51.46]双(soeng1)眼(ngaan5)内(noi6)何(ho4)事(si6)会(wui6)湿(sap1)透(tau3)
-[01:58.25]
-[02:30.29]常(soeng4)请(cing2)眼(ngaan5)睛(zing1)不(bat1)要(jiu3)醒(sing2)
-[02:33.91]不(bat1)用(jung6)太(taai3)过(gwo3)看(hon3)得(dak1)真(zan1)
-[02:36.79]
-[02:38.03]常(soeng4)劝(hyun3)哭(huk1)声(sing1)稍(saau2)冷(laang5)静(zing6)
-[02:41.68]事(si6)情(cing4)未(mei6)算(syun3)有(jau5)裂(lit6)痕(han4)
-[02:44.75]
-[02:46.04]如(jyu4)日(jat6)前(cin4)望(mong6)见(gin3)她(taa1)于(jyu1)街(gaai1)头(tau4)
-[02:49.34]
-[02:49.94]共(gung6)你(nei5)靠(kaau3)得(dak1)太(taai3)紧(gan2)
-[02:52.88]
-[02:53.67]全(cyun4)因(jan1)那(naa5)一(jat1)天(tin1)风(fung1)急(gap1)雨(jyu5)暴(bou6)
-[02:57.34]任(jam6)谁(seoi4)亦(jik6)会(wui6)走(zau2)近(gan6)
-[03:02.42]
-[03:07.38]常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)
-[03:08.74]也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)借(ze3)口(hau2)
-[03:13.02]
-[03:14.95]如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)
-[03:16.55]却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)
-[03:21.22]
-[03:22.97]明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)
-[03:24.31]但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)
-[03:26.34]我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)
-[03:30.11]
-[03:30.71]我(ngo5)诈(zaa3)不(bat1)知(zi1)不(bat1)须(seoi1)再(zoi3)过(gwo3)多(do1)久(gau2)你(nei5)会(wui6)走(zau2)
-[03:37.21]
-[03:38.57]常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)
-[03:39.99]也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)借(ze3)口(hau2)
-[03:44.58]
-[03:46.02]如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)
-[03:47.76]却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)
-[03:52.42]
-[03:54.17]明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)
-[03:55.62]但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)
-[03:57.56]我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)
-[04:01.68]仍(jing4)然(jin4)诈(zaa3)不(bat1)知(zi1)
-[04:03.27]
-[04:04.07]双(soeng1)眼(ngaan5)内(noi6)何(ho4)事(si6)会(wui6)湿(sap1)透(tau3)
-[04:10.26]
-[04:11.77]尚(soeng6)当(dong1)我(ngo5)拥(jung2)有(jau5)
+    { "line": "常(soeng4)请(cing2)晚(maan5)星(sing1)请(cing2)背(bui3)影(jing2)", "time": 16000 },
+    { "line": "不(bat1)用(jung6)替(tai3)我(ngo5)太(taai3)挂(gwaa3)心(sam1)", "time": 19410 },
+    { "line": "常(soeng4)劝(hyun3)心(sam1)境(ging2)应(jing3)恬(tim4)静(zing6)", "time": 23740 },
+    { "line": "别(bit6)无(mou4)事(si6)也(jaa5)带(daai3)泪(leoi6)痕(han4)", "time": 27300 },
+    { "line": "如(jyu4)近(gan6)来(loi4)共(gung6)你(nei5)相(soeng1)拥(jung2)之(zi1)时(si4)", "time": 31500 },
+    { "line": "常(soeng4)常(soeng4)略(loek6)察(caat3)觉(gok3)你(nei5)稍(saau2)带(daai3)冷(laang5)感(gam2)", "time": 35170 },
+    { "line": "全(cyun4)因(jan1)你(nei5)身(san1)边(bin1)许(heoi2)多(do1)要(jiu3)事(si6)", "time": 39260 },
+    { "line": "暂(zaam6)时(si4)没(mut6)法(faat3)兴(hing1)奋(fan5)", "time": 42820 },
+    { "line": "常(soeng4)请(cing2)眼(ngaan5)睛(zing1)不(bat1)要(jiu3)醒(sing2)", "time": 48990 },
+    { "line": "不(bat1)用(jung6)太(taai3)过(gwo3)看(hon3)得(dak1)真(zan1)", "time": 52550 },
+    { "line": "常(soeng4)劝(hyun3)哭(huk1)声(sing1)稍(saau2)冷(laang5)静(zing6)", "time": 56800 },
+    { "line": "事(si6)情(cing4)未(mei6)算(syun3)有(jau5)裂(lit6)痕(han4)", "time": 60480 },
+    { "line": "如(jyu4)日(jat6)前(cin4)为(wai4)我(ngo5)恭(gung1)祝(zuk1)生(sang1)辰(san4)", "time": 64550 },
+    { "line": "是(si6)我(ngo5)冷(laang5)的(dik1)背(bui3)影(jing2)", "time": 68690 },
+    { "line": "全(cyun4)因(jan1)你(nei5)当(dong1)天(tin1)刚(gong1)巧(haau2)有(jau5)事(si6)", "time": 72370 },
+    { "line": "辨(bin6)完(jyun4)便(bin6)送(sung3)我(ngo5)火(fo2)吻(man5)", "time": 76110 },
+    { "line": "常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)", "time": 86170 },
+    { "line": "也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)藉(zik6)口(hau2)", "time": 87610 },
+    { "line": "如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)", "time": 93610 },
+    { "line": "却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)", "time": 95410 },
+    { "line": "明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)", "time": 101710 },
+    { "line": "但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)", "time": 104327 },
+    { "line": "我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)", "time": 105140 },
+    { "line": "仍(jing4)然(jin4)诈(zaa3)不(bat1)知(zi1)", "time": 109280 },
+    { "line": "双(soeng1)眼(ngaan5)内(noi6)何(ho4)事(si6)会(wui6)湿(sap1)透(tau3)", "time": 111600 },
+    { "line": "常(soeng4)请(cing2)眼(ngaan5)睛(zing1)不(bat1)要(jiu3)醒(sing2)", "time": 150680 },
+    { "line": "不(bat1)用(jung6)太(taai3)过(gwo3)看(hon3)得(dak1)真(zan1)", "time": 154050 },
+    { "line": "常(soeng4)劝(hyun3)哭(huk1)声(sing1)稍(saau2)冷(laang5)静(zing6)", "time": 158230 },
+    { "line": "事(si6)情(cing4)未(mei6)算(syun3)有(jau5)裂(lit6)痕(han4)", "time": 161910 },
+    { "line": "如(jyu4)日(jat6)前(cin4)望(mong6)见(gin3)她(taa1)于(jyu1)街(gaai1)头(tau4)", "time": 166020 },
+    { "line": "共(gung6)你(nei5)靠(kaau3)得(dak1)太(taai3)紧(gan2)", "time": 170200 },
+    { "line": "全(cyun4)因(jan1)那(naa5)一(jat1)天(tin1)风(fung1)急(gap1)雨(jyu5)暴(bou6)", "time": 173820 },
+    { "line": "任(jam6)谁(seoi4)亦(jik6)会(wui6)走(zau2)近(gan6)", "time": 177690 },
+    { "line": "常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)", "time": 187420 },
+    { "line": "也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)藉(zik6)口(hau2)", "time": 189110 },
+    { "line": "如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)", "time": 195260 },
+    { "line": "却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)", "time": 196880 },
+    { "line": "明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)", "time": 203000 },
+    { "line": "但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)", "time": 204680 },
+    { "line": "我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)", "time": 206610 },
+    { "line": "我(ngo5)诈(zaa3)不(bat1)知(zi1)不(bat1)须(seoi1)再(zoi3)过(gwo3)多(do1)久(gau2)", "time": 210980 },
+    { "line": "你(nei5)会(wui6)走(zau2)", "time": 214910 },
+    { "line": "常(soeng4)自(zi6)我(ngo5)哄(hung1)骗(pin3)", "time": 218900 },
+    { "line": "也(jaa5)替(tai3)你(nei5)辛(san1)苦(fu2)找(zaau2)藉(zik6)口(hau2)", "time": 220330 },
+    { "line": "如(jyu4)全(cyun4)没(mut6)有(jau5)介(gaai3)意(ji3)", "time": 226390 },
+    { "line": "却(koek3)暗(am3)孤(gu1)单(daan1)饮(jam2)心(sam1)里(lei5)苦(fu2)酒(zau2)", "time": 228140 },
+    { "line": "明(ming4)知(zi1)将(zoeng1)分(fan1)手(sau2)", "time": 234500 },
+    { "line": "但(daan6)若(joek6)人(jan4)未(mei6)开(hoi1)口(hau2)", "time": 235980 },
+    { "line": "我(ngo5)都(dou1)会(wui6)一(jat1)再(zoi3)当(dong1)我(ngo5)通(tung1)通(tung1)都(dou1)拥(jung2)有(jau5)", "time": 237790 },
+    { "line": "仍(jing4)然(jin4)诈(zaa3)不(bat1)知(zi1)", "time": 242040 },
+    { "line": "双(soeng1)眼(ngaan5)内(noi6)何(ho4)事(si6)会(wui6)湿(sap1)透(tau3)", "time": 244280 },
+    { "line": "尚(soeng6)当(dong1)我(ngo5)拥(jung2)有(jau5)", "time": 251990 }

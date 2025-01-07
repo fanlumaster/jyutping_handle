@@ -4,7 +4,7 @@
 
 import os.path
 
-file_path = os.path.join(os.path.dirname(__file__), './res/jp.txt')
+file_path = os.path.join(os.path.dirname(__file__), './assets/jp.txt')
 
 my_dict = {}
 with open(file_path, 'rb+') as myfile:
